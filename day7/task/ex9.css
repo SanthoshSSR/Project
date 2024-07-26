@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    background-color: lightgrey;
+    margin: 30px;
+}
+.head{
+    background-color: lightseagreen;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+    font-size: x-large;
+}
+.main{
+    width: 100%;
+    margin: 10px;
+}
+.section1{
+    height: 250px;
+    width: 100%;
+    display: inline-block;
+}
+.left1{
+    background-color:lightseagreen;
+    height: 240px;
+    width: 60%;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    font-size: x-large;
+}
+.right1{
+    height: 250px;
+    width: 37.5%;
+    display: inline-block;
+}
+.hero{
+    margin: 0px 5px;
+    background-color:lightseagreen;
+    height: 180px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    font-size: x-large;
+}
+.call{
+    margin: 10px 5px;
+    background-color:yellowgreen;
+    height: 50px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    font-size: x-large;
+}
+.section2{
+    background-color: lightseagreen;
+    height: 100px;
+    width: 98.5%;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    font-size: x-large;
+}
+.section3{
+    margin-bottom: 10px;
+    width: 100%;
+    height: 50px;
+    display: inline-block;
+}
+.left3{
+    background-color: lightseagreen;
+    width: 60%;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    font-size: x-large;
+}
+.right3{
+    margin: 10px 5px;
+    background-color: yellowgreen;
+    width: 37.5%;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    font-size: x-large;
+}
+.foot{
+    background-color: lightseagreen;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+    font-size: x-large;
+}

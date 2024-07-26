@@ -1,0 +1,59 @@
+*{
+    margin: 10px;
+    padding: 0px;
+}
+.box{
+    margin: 20px;
+}
+.nav{
+    border: 2px solid black;
+    background-color: rgb(155, 132, 5);
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    align-content: center;
+    color: white;
+}
+.intro{
+    border: 2px solid black;
+    background-color: rgb(190, 106, 2);
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+    color: white;
+}
+.mid{
+    width: 100%;
+    height: 210px;
+    display: inline-block;
+}
+.main{
+    border: 2px solid black;
+    background-color: rgb(63, 62, 62);
+    height: 200px;
+    width: 57%;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    color: white;
+}
+.side{
+    border: 2px solid black;
+    background-color: rgb(182, 69, 163);
+    width: 38%;
+    height: 200px;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    color: white;
+}
+.foot{
+    border: 2px solid black;
+    background-color: rgb(78, 24, 165);
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+    color: white;
+}

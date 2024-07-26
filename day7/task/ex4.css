@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.top{
+    margin: 50px;
+    padding: 30px 15px;
+    border: 2px dotted aqua;
+    height: 800px;
+    width: 100%;
+}
+.head{
+    border: 6px solid blue;
+    height: 150px;
+    width: 99%;
+    text-align: center;
+    align-content: center;
+}
+.mid{
+    width: 100%;
+    height: 650px;
+    display: inline-block;
+}
+.mid1{
+    width: 25%;
+    height: 650px;
+    display: inline-block;
+}
+.mid2{
+    width: 73%;
+    height: 650px;
+    display: inline-block;
+    vertical-align: top;
+}
+.menu{
+    border: 6px solid blue;
+    height: 630px;
+    width: 100%;
+    text-align: center;
+    align-content: center;
+    display: inline-block;
+}
+.portion1{
+    width: 100%;
+    height: 650px;
+    display: inline-block;
+}
+.main{
+    border: 6px solid blue;
+    height: 450px;
+    width: 49%;
+    text-align: center;
+    align-content: center;
+    display: inline-block;
+}
+.right{
+    border: 6px solid blue;
+    height: 450px;
+    width: 48%;
+    text-align: center;
+    align-content: center;
+    display: inline-block;
+}
+ .portion2{
+    width: 100%;
+}
+.foot{
+    border: 6px solid blue;
+    height: 170px;
+    width: 100%;
+    text-align: center;
+    align-content: center;
+}

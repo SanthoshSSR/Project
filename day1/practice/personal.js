@@ -1,0 +1,6 @@
+console.log("Selvin Santhosh Raj")
+console.log(25)
+console.log("16-01-1999")
+console.log("Vins Christian College of Engineering")
+console.log(2020)
+console.log(9751944940)

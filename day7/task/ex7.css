@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    border: 3px solid;
+    margin: 30px;
+}
+.head{
+    background-color: violet;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    align-content: center;
+    font-size: x-large;
+}
+.navi{
+    background-color: rgb(131, 17, 131);
+    height: 100px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    align-content: center;
+    font-size: x-large;
+}
+.main{
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    align-content: center;
+    font-size: x-large;
+}
+.foot{
+    background-color: rgb(182, 46, 182);
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    align-content: center;
+    font-size: x-large;
+}

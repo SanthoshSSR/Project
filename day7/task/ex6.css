@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    margin: 30px;
+}
+.head{
+    background-color: #f7bf09fd;
+    width: 100%;
+    height: 50px;
+    color: white;
+    text-align: center;
+    align-content: center;
+}
+.mid{
+    width: 100%;
+    height: 400px;
+    display: inline-block;
+}
+.nav{
+    background-color: blue;
+    height: 400px;
+    width: 20%;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    align-content: center;
+}
+.article{
+    background-color:green;
+    width: 79%;
+    height: 400px;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    align-content: center;
+}
+.foot{
+    background-color: darkred;
+    width: 100%;
+    height: 50px;
+    color: white;
+    text-align: center;
+    align-content: center;
+}

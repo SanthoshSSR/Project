@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" id="input">
+    <button onclick="submit()">Submit</button>
+    <p id="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur voluptatum incidunt reiciendis iusto, aut fugiat quasi distinctio omnis. Soluta odit quaerat perferendis reprehenderit dignissimos facere nihil optio at porro ex obcaecati, itaque ea magni distinctio ut dolorum. Architecto reiciendis officiis eius quidem ducimus? Exercitationem sit quisquam, eligendi officia dolores ea! Aperiam porro aliquid doloremque ullam veniam, nemo vitae dolor aspernatur nobis fugit! Exercitationem ullam asperiores quidem doloremque, praesentium consectetur labore reiciendis explicabo cupiditate ducimus sapiente porro illo deleniti nulla sequi voluptas dicta a aliquam. Delectus a, nihil, sint natus officia aspernatur consequuntur quis consequatur officiis, tempora aperiam voluptas ullam. Optio!
+    </p>
+</body>
+<script>
+    function submit(){
+        let submitvalue=document.getElementById("input").value
+        let contentvalue=document.getElementById("content")
+        contentvalue.innerHTML=submitvalue
+        document.getElementById("input").value=""
+    }
+</script>
+</html>
